@@ -1,0 +1,44 @@
+{
+  "user": {
+      "_id": "642bde8a8178c99e573a1154",
+      "username": "John",
+      "firstName": "John",
+      "lastName": "Deo",
+      "role": "user",
+      "email": "johndeo@gmail.com",
+      "phoneNumber": 7871893862,
+      "preferredCurrency": "USD",
+      "isVerified": true,
+      "checkpoint": 6,
+      "enableNotifications": true,
+      "displayFullNameInProfile": false,
+      "isEventLiveInCalendar": null,
+      "myFanPagesCount": 1,
+      "profilePhoto": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+      "background": null,
+      "profilePhotoThumbnail": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+      "backgroundThumbnail": null,
+      "customerId": "cus_NeNvr51M87y3nX",
+      "accountId": "acct_1NV8Z6PNyg4k4hfd",
+      "isConnectAcctOnboardingComplete": true,
+      "wallet": {
+        "earned": {
+          "gifted": 500 ,
+          "donated": 500
+        },
+        "contribution": {
+          "gifted": 500 ,
+          "donated": 500
+        },
+        "gift": 0,
+        "donated": 0,
+        "balance": 2000,
+        "currency": "usd"
+      },
+      "stripeSubscribedProductId": "KEY",
+      "stripeSubscriptionId": null,
+      "isDeleted": false,
+      "isBlackListedUser": false,
+      "isAccountSuspended": false
+    }
+}
