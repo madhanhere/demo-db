@@ -1,5 +1,6 @@
 {
   "user": {
+      "id": 1,
       "_id": "642bde8a8178c99e573a1154",
       "username": "John",
       "firstName": "John",
@@ -23,11 +24,11 @@
       "isConnectAcctOnboardingComplete": true,
       "wallet": {
         "earned": {
-          "gifted": 500 ,
+          "gifted": 500,
           "donated": 500
         },
         "contribution": {
-          "gifted": 500 ,
+          "gifted": 500,
           "donated": 500
         },
         "gift": 0,
