@@ -1,5 +1,6 @@
 {
-  "user": {
+  "user": [
+    {
       "id": 1,
       "_id": "642bde8a8178c99e573a1154",
       "username": "John",
@@ -33,7 +34,7 @@
         },
         "gift": 0,
         "donated": 0,
-        "balance": 2000,
+        "balance": 5000,
         "currency": "usd"
       },
       "stripeSubscribedProductId": "KEY",
@@ -42,4 +43,6 @@
       "isBlackListedUser": false,
       "isAccountSuspended": false
     }
+  ],
+  "transactions": []
 }
