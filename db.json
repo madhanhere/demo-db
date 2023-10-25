@@ -16,9 +16,9 @@
       "displayFullNameInProfile": false,
       "isEventLiveInCalendar": null,
       "myFanPagesCount": 1,
-      "profilePhoto": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+      "profilePhoto": "https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?w=1060&t=st=1698208151~exp=1698208751~hmac=d7d0c18d1376e651d0e431b62f3c3517e9c02fe1e86df5d21fb1b6a13748a1e5",
       "background": null,
-      "profilePhotoThumbnail": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+      "profilePhotoThumbnail": "https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?w=1060&t=st=1698208151~exp=1698208751~hmac=d7d0c18d1376e651d0e431b62f3c3517e9c02fe1e86df5d21fb1b6a13748a1e5",
       "backgroundThumbnail": null,
       "customerId": "cus_NeNvr51M87y3nX",
       "accountId": "acct_1NV8Z6PNyg4k4hfd",
@@ -36,8 +36,120 @@
         "funds": 5000,
         "currency": "usd"
       },
-      "stripeSubscribedProductId": "KEY",
-      "stripeSubscriptionId": null,
+      "isDeleted": false,
+      "isBlackListedUser": false,
+      "isAccountSuspended": false
+    },
+    {
+      "id": 2,
+      "_id": "356bde8a8178c99e573a1154",
+      "username": "Jhon_David",
+      "firstName": "John",
+      "lastName": "David",
+      "role": "user",
+      "email": "jhondavid@gmail.com",
+      "phoneNumber": 7790893864,
+      "preferredCurrency": "USD",
+      "isVerified": true,
+      "checkpoint": 6,
+      "enableNotifications": true,
+      "displayFullNameInProfile": false,
+      "isEventLiveInCalendar": null,
+      "myFanPagesCount": 1,
+      "profilePhoto": "https://cdn.pixabay.com/photo/2015/03/04/22/35/avatar-659651_1280.png",
+      "background": "https://fastly.picsum.photos/id/27/3264/1836.jpg?hmac=p3BVIgKKQpHhfGRRCbsi2MCAzw8mWBCayBsKxxtWO8g",
+      "profilePhotoThumbnail": "https://cdn.pixabay.com/photo/2015/03/04/22/35/avatar-659651_1280.png",
+      "backgroundThumbnail": null,
+      "isConnectAcctOnboardingComplete": true,
+      "wallet": {
+        "earned": {
+          "gifted": 500,
+          "donated": 500
+        },
+        "contribution": {
+          "gifted": 500,
+          "donated": 500
+        },
+        "withdraw": 0,
+        "funds": 1000,
+        "currency": "usd"
+      },
+      "isDeleted": false,
+      "isBlackListedUser": false,
+      "isAccountSuspended": false
+    },
+    {
+      "id": 3,
+      "_id": "456bde8a8178c99e573a5898",
+      "username": "John_Micheal",
+      "firstName": "John",
+      "lastName": "Micheal",
+      "role": "user",
+      "email": "johnmicheal@gmail.com",
+      "phoneNumber": 9461893864,
+      "preferredCurrency": "USD",
+      "isVerified": true,
+      "checkpoint": 6,
+      "enableNotifications": true,
+      "displayFullNameInProfile": false,
+      "isEventLiveInCalendar": null,
+      "myFanPagesCount": 1,
+      "profilePhoto": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_1280.png",
+      "background": "https://fastly.picsum.photos/id/27/3264/1836.jpg?hmac=p3BVIgKKQpHhfGRRCbsi2MCAzw8mWBCayBsKxxtWO8g",
+      "profilePhotoThumbnail": "https://cdn.pixabay.com/photo/2013/07/12/14/36/man-148582_1280.png",
+      "backgroundThumbnail": null,
+      "isConnectAcctOnboardingComplete": true,
+      "wallet": {
+        "earned": {
+          "gifted": 500,
+          "donated": 500
+        },
+        "contribution": {
+          "gifted": 500,
+          "donated": 500
+        },
+        "withdraw": 0,
+        "funds": 1000,
+        "currency": "usd"
+      },
+      "isDeleted": false,
+      "isBlackListedUser": false,
+      "isAccountSuspended": false
+    },
+    {
+      "id": 4,
+      "_id": "356bde8a8178c99e573a1154",
+      "username": "John_Pal",
+      "firstName": "John",
+      "lastName": "Pal",
+      "role": "user",
+      "email": "jhonpal@gmail.com",
+      "phoneNumber": 9378693538,
+      "preferredCurrency": "USD",
+      "isVerified": true,
+      "checkpoint": 6,
+      "enableNotifications": true,
+      "displayFullNameInProfile": false,
+      "isEventLiveInCalendar": null,
+      "myFanPagesCount": 1,
+      "profilePhoto": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_1280.png",
+      "background": "https://fastly.picsum.photos/id/27/3264/1836.jpg?hmac=p3BVIgKKQpHhfGRRCbsi2MCAzw8mWBCayBsKxxtWO8g",
+      "profilePhotoThumbnail": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_1280.png",
+      "backgroundThumbnail": null,
+      "isConnectAcctOnboardingComplete": true,
+      "wallet": {
+        "earned": {
+          "gifted": 500,
+          "donated": 500
+        },
+        "contribution": {
+          "gifted": 500,
+          "donated": 500
+        },
+        "withdraw": 0,
+        "funds": 1000,
+        "currency": "usd"
+      },
       "isDeleted": false,
       "isBlackListedUser": false,
       "isAccountSuspended": false
